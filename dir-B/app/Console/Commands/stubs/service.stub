@@ -1,0 +1,9 @@
+<?php
+namespace DummyNamespace;
+use App\Services\Service;
+class DummyClass extends Service
+{
+    public function __construct(){
+        
+    }
+}
